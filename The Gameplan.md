@@ -1,6 +1,6 @@
 Theory status :
 
-Combinational: last 4 pages left ( the carry lookahead adder why the +4 instead of 2 is there , adder subtractor , BCD adder 
+Combinational: last 4 pages left ( adder subtractor , BCD adder 
 Sequential:Edge triggered flip flop
 Controller + Register + algo: fully left 
 
