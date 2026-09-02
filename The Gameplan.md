@@ -1,6 +1,10 @@
 Theory status :
 Combinational:done 
+
+
 Sequential:Edge triggered flip flop
+
+
 Controller + Register + algo: fully left 
 
 Finish theory by 2PM asap
