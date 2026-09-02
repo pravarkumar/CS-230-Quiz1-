@@ -3,17 +3,7 @@ Theory status :
 See multiplicator 
 
 + meeley and moolee
-
-Combinational:done 
-
-
-Sequential:done
-
-
-Controller + Register + algo:gcd little left almost done 
-
-2->3 we do tut 1 + tut 2 2025 
-
++ 
 3->4:30 we will do 2024 Ps1+ Ps2  
 
 -> from 4:30 we give 2025:Quiz1
