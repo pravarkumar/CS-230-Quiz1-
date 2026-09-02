@@ -1,6 +1,5 @@
 Theory status :
-
-Combinational: last 4 pages left ( adder subtractor , BCD adder 
+Combinational:done 
 Sequential:Edge triggered flip flop
 Controller + Register + algo: fully left 
 
