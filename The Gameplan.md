@@ -6,7 +6,7 @@ See multiplicator
 + 
 3->4:30 we will do 2024 Ps1+ Ps2  
 
--> from 4:30 we give 2025:Quiz1
+
 ->from 5:45 we give 2025:Midsem
 ->from 7:15 PM
 -> We eat food 
