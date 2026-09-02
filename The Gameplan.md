@@ -2,7 +2,7 @@ Theory status :
 Combinational:done 
 
 
-Sequential:Edge triggered flip flop
+Sequential:done
 
 
 Controller + Register + algo: fully left 
