@@ -6,10 +6,6 @@ See multiplicator
 + 
 3->4:30 we will do 2024 Ps1+ Ps2  
 
-
-->from 5:45 we give 2025:Midsem
-->from 7:15 PM
--> We eat food 
 -> from 8:00 to 9:00 2024:Quiz1
 -> till 10:30 we finish 2024 : some part of endsem
 2024:some part of midsem in question answer format 
