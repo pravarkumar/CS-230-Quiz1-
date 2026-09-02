@@ -3,12 +3,10 @@ Theory status :
 See multiplicator 
 
 + meeley and moolee
-
++ dual + self dual + compliment
++ this register also
 
 3->4:30 we will do 2024 Ps1+ Ps2  
-
--> till 10:30 we finish 2024 : some part of endsem
-
 
 2024:some part of midsem in question answer format 
 
